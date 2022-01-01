@@ -11,7 +11,7 @@ I hope to do a lot for this team, but three main categories stand out
 1. Get resources for your projects
 1. Keep your workload comfortable
 
-For the first, I will be asking all of you regularly about what you want out of your career and trying to get that for you, or else encouraging you to think about this more if you haven't already. I view this as one of the most important parts of 1:1s. I started my transition to management by telling my manager that that was my goal, and I want everyone to feel like they're getting a lot out of working here.
+For the first, I will be asking all of you regularly about what you want out of your career and trying to get that for you, or else encouraging you to think about this more if you haven't already. I view this as one of the most important parts of 1:1s. My goal is for everyone to feel like they're growing by working here.
 
 The second and the third are closely related. The second refers to internal resources like information, meetings, and decisions, as well as external resources like software licenses and subscriptions, books and courses, conference tickets, connections with outside experts, etc. If the company, or anyone at the company, has access to any of these and they would help, I can go try and get them. The third refers specifically to time; I want to create time for us to finish projects without working long hours by keeping the list of projects short and cancelling projects that shouldn't be on it[^1]. I'm excited to try out story points, but I see balancing our obligations to the company with protecting our backlog as part of my job, to be done one way or another.
 
