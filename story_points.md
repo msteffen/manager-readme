@@ -12,7 +12,7 @@ Given the observation above, it would make sense to estimate project duration by
 
 In Agile, you compute a coefficient for the whole team. You track the number of Story Points the team accomplishes each week (their "Velocity," which should be fairly stable as a corollary of the above observation[^corollary]). For a new project, you add up its stories and divide by the team's Velocity to get a time estimate.
 
-Isn't this just a complicated way of estimating projects the way we always have? You're breaking a project into pieces, estimating each piece, and then adding them up; isn't that known not to work well? The difference is that Story Points are relative, and Velocity is measured rather than estimated. This yields two big psychological benefits:
+Isn't this just a complicated way of estimating projects the way we always have? You're breaking a project into pieces, estimating each piece, and then adding them up; isn't that known not to work well? The difference is that Story Points are relative, and Velocity is measured rather than estimated. This yields two big psychological benefits for engineers:
 1. If you forget to include testing, code review, etc. in your estimate, that's totally fine. As long as you forget consistently, it just means your team's Velocity is slightly lower, and the time estimate comes out correct.
 1. No one bothers you about deadlines anymore. You're not worried about tomorrow's work at the end of the day, and instead you can just focus on general productivity.
 
