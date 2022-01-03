@@ -13,18 +13,18 @@ Given the observation above, it would make sense to estimate project duration by
 In Agile, you compute a coefficient for the whole team. You track the number of Story Points the team accomplishes each week (their "Velocity," which should be fairly stable as a corollary of the above observation[^corollary]). For a new project, you add up its stories and divide by the team's Velocity to get a time estimate.
 
 Isn't this just a complicated way of estimating projects the way we always have? You're breaking a project into pieces, estimating each piece, and then adding them up; isn't that known not to work well? The difference is that Story Points are relative, and Velocity is measured rather than estimated. This yields two big psychological benefits for engineers:
-1. If you forget to include testing, code review, etc. in your estimate, that's totally fine. As long as you forget consistently, it just means your team's Velocity is slightly lower, and the time estimate comes out correct.
+1. If you forget to include testing, code review, etc. in your estimate, that's totally fine. As long as you forget consistently, and the forgotten steps are a fairly consistent proportion of each story, then stories' relative sizes remain the same. The time estimate comes out correct.
 1. No one bothers you about deadlines anymore. You're not worried about tomorrow's work at the end of the day, and instead you can just focus on general productivity.
 
 ### How Do You Estimate Story Points?
 
 [Snaking](http://ronlichty.blogspot.com/2014/08/team-estimation.html): You sort your stories, smallest to largest, and then figure out the cutoffs between the 1s, the 2s, the 3s, the 5s, etc. The numbers should be difficulty ratios (the easiest "2" should be about twice as hard as the easiest "1"), but you restrict yourselves to fibonacci numbers to save time and sanity.
 
-When new things get added to the backlog, you insert them in the list.
+When new things get added to the backlog, you insert them in the list and infer their size in Story Points.
 
 ### What About Technical Risk? Early Feedback?
 
-These are both still very important. In aggregate, they affect the team's velocity (for big enough risks, they won't amortize over any reasonable time frame, and you'll just miss your deadline). The solution to these issues is to pick the right milestones, which is orthogonal to the ETA of those milestones. So we'll need to do that too.
+These are both still very important. Big enough risks won't amortize over any reasonable time frame. The solution to these issues is to pick the right milestones, which is orthogonal to the ETA of those milestones. So we'll need to do that too.
 
 [^claim]: This is an empirical claim; the evidence I've seen to support it is the endorsement of Avery, the "Write More Tests" person, and the prior experience of a few people at Pachyderm (who I'll name once I have their permission).
 
