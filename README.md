@@ -9,7 +9,7 @@ My view of our team's relationship with the company is that the company turns ou
 I hope to do a lot for this team, but three main categories stand out
 1. Help you use the company to grow your career
 1. Get resources for your projects
-1. Keep your workload comfortable
+1. Keep your workload comfortable by pushing back on the company when it's being unreasonable
 
 For the first, I will be asking all of you regularly about what you want out of your career and trying to get that for you, or else encouraging you to think about this more if you haven't already. I view this as one of the most important parts of 1:1s. My goal is for everyone to feel like they're growing by working here.
 
