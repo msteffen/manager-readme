@@ -18,4 +18,4 @@ There are many decisions made at Pachyderm about things other than code: what is
 
 ## Ownership ownership
 
-"Who owns these decisions" is the responsibility of Pachyderm's leadership, and delegating that ownership is one of the main parts of their jobs. Managers shouldn't be making any decisions over which they have delegated ownership, but if the company's goals aren't getting accomplished, it's reasonable to change the owner of decisions that aren't working.
+"Who owns these decisions" is the responsibility of Pachyderm's leadership, and delegating that ownership is one of the main parts of their jobs. Managers shouldn't be making any decisions over which they have delegated ownership, but it's reasonable for them to ask how a decision serves the company's goals, and if the company's goals aren't getting accomplished, it's reasonable to change the owner of decisions that aren't working.
