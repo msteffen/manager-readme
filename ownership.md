@@ -1,16 +1,16 @@
 ## Definition
 
-**Ownership means that a decision is your right to change and your responsibility to understand and explain**
+**Ownership over a decision means that you can make or change the decision unilaterally, without consensus, but others will expect you to understand and explain it**
 
 ## Code Ownership
 
-I believe code ownership is the most widely-practiced form of ownership in the tech industry. As an engineer, if you "own" a piece of the codebase, then you know how it works. Feature requests for that part of the code base will be your responsibility to implement. Questions about how that code works (from users or for cross-cutting changes) are your responsibility to answer, and other engineers' changes are your responsibility to review. Every part of the codebase should be owned by someone.
+I believe code ownership is the most widely-practiced form of ownership in the tech industry. As an engineer, if you "own" a piece of the codebase, then you know how it works. You implement its feature requests, review its PRs, and answer questions about it works. Someone should own every part of the codebase.
 
-Code ownership is a special case of decision ownership. The defining characteristic of creative work is the need to make lots and lots of open-ended decisions; in software, these are decisions like: what are the variables called, how is the code laid out, etc. When you own a piece of the codebase, you own those decisions. You're welcome to make or change them any time you like, without consensus, but the consequences of those changes are your responsibility to know about. By extension, if you need to make changes to another part of the Pachyderm codebase, the owner of that code will need to review it. Your decisions will become their responsibility, so try to accommodate their requests.
+Code ownership is a special case of decision ownership. The defining characteristic of all creative work is the need to make lots and lots of open-ended decisions; in software, decisions look like: what are the variables called, how is the code laid out, etc. When you own a piece of the codebase, you own those decisions. By extension, if you need to make changes to another part of the Pachyderm codebase, the owner of that code needs to review it. They're responsible for the decisions in your PR, so try to accommodate their requests.
 
-If you're new to Pachyderm and looking for more autonomy or to grow your career, try looking for parts of the codebase you can own. There are many sections of code where the owner is too busy to pay them much attention, and will appreciate the lightened responsibility. Those sections of code are often bitrotted and complex, so you can use the autonomy to rewrite them (writing code is an effective way to know how it works and how it's used, which is the job of a code owner).
+Engineers looking for more autonomy or to grow their career should look for parts of the codebase they can own. There are many sections of code where the owner is too busy to pay them much attention, and will appreciate the lightened responsibility. Those sections of code often use old libraries and redundant implementations, so you can use the autonomy of ownership to rewrite them, and having rewritten the code, you'll know how it works.
 
-If you've been at Pachyderm for a while and want to lighten your load, don't be afraid to hand off code ownership to new engineers or to other teams who have more stake in that code. They might rewrite it and you might lose your understanding of how it works, but if you're not the owner, you're not responsible for those changes. Focusing more energy on fewer projects is also a great way to raise your productivity.
+If you've been at Pachyderm for a while and want to lighten your load, don't be afraid to hand off code ownership to new engineers or to other teams who have more stake in that code. They might rewrite it and you might lose your understanding of how it works, but if you're not the owner, you're not responsible for those changes. Focusing more energy on fewer, higher-impact projects is also a great way to raise your productivity. Be nice to the new owners though; they're inheriting the code's existing decisions, which you'll understand best at the outset.
 
 ## Non-code Ownership
 
