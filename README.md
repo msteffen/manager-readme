@@ -6,7 +6,7 @@ My view of our team's relationship with the company is that the company turns ou
 
 ### Helping the Team Get What it Needs from the Company
 
-I hope to do a lot for this team, but three main categories stand out
+I hope to do a lot for this team, but three main categories stand out:
 1. Help you use the company to grow your career
 1. Get resources for your projects
 1. Keep the backlog consistent and comfortable
