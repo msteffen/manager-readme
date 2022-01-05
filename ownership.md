@@ -4,7 +4,7 @@
 
 ## Code Ownership
 
-I believe code ownership is the most widely-practiced form of ownership in the tech industry. When you "own" a piece of the codebase, then others expect you to know how it works and why it works that way[^1]. You implement its feature requests, review its PRs, and answer questions about how it works. Ideally, two or more people own every part of the codebase (they trust each other—or at least negotiate with each other—to make decisions, and they communicate regularly about decisions made. They can review each others' code and cover for each other during vacations or other absences).
+I believe code ownership is the most widely-practiced form of ownership in the tech industry. When you "own" a piece of the codebase, then others expect you to know how it works and why it works that way[^1]. You implement its feature requests, review its PRs, and answer questions about how it works. Ideally, two or more people own every part of the codebase; they trust each other—or at least negotiate with each other—to make decisions, and they communicate regularly about decisions made. They can review each others' code and cover for each other during vacations or other absences.
 
 Code ownership is a special case of decision ownership. The need to make lots of open-ended decisions fundamentally defines creative work in general; in software specifically, the open-ended decisions look like: what are the variables called? How is the code laid out? What's the API? Etc. When you own a piece of the codebase, you own those decisions. By extension, if you need to make changes to another part of the codebase, one of the owners of that code needs to review it. They're responsible for the decisions in your PR, so try to accommodate their requests.
 
