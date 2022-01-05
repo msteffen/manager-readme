@@ -12,12 +12,12 @@ Engineers looking for more autonomy or to grow their career should look for part
 
 If you've been at Pachyderm for a while and want to lighten your load, don't be afraid to hand off code ownership to new engineers or to other teams more invested in that code. They might rewrite it and you might lose your understanding of how it works, but if you're not the owner, you're not responsible for those changes. Focusing more energy on fewer projects is a great way to increase your productivity, and productively developing high-impact projects is a great way to grow your career. Meanwhile, the old library you grudgingly maintain, which distracts you from your more ambitious projects, may be critical to someone else's grand vision. Be nice to the new owners though; they're inheriting the code's existing decisions, which you'll still understand best for a while.
 
-## Non-code Ownership
+## Non-Code Ownership
 
 There are many decisions made at Pachyderm about things other than code: What do we put on the product's roadmap? How will we market it? What's our release process? What do we prioritize? Who do we hire? These, in a sense, constitute the broader creative project that is a software product, or even the creative project that is Pachyderm the company. Those decisions should have owners too. If you'd like to change one of them, find out who the owners are and work with them, as you would when sending a PR. Or, if you are the owner, change it!
 
-## Ownership ownership
+## Ownership Ownership
 
-Finding owners for decisions is one of the main responsibilities of managers. Managers normally shouldn't make decisions over which they have delegated ownership, but it's reasonable for them to ask how a decision serves the company's goals, and if the company's goals aren't getting accomplished, it's reasonable to change the owner of those decisions in order to try a new approach.
+Finding owners for decisions is one of the main decisions that managers make. Managers normally shouldn't make decisions over which they have delegated ownership, but it's reasonable for them to ask how a decision serves the company's goals, and if the company's goals aren't getting accomplished, it's reasonable to change the owner of those decisions in order to try a new approach.
 
 [^1]: If you're new to code ownership: it's okay if your code is bad for a bad reason, e.g. "we were in a hurry so we copied a bunch of code from another part of the codebase." Obviously that situation isn't ideal, but your job is just to know that fact! Realistically, we will write bad code sometimes for a variety of reasons, and because you know the reason, others won't be afraid to rewrite it when they have more time, knowledge, or motivation.
