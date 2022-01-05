@@ -11,7 +11,7 @@ I hope to do a lot for this team, but three main categories stand out:
 1. Get resources for your projects
 1. Keep the backlog consistent and comfortable
 
-For the first, I will be asking all of you regularly about what you want out of your career and trying to get that for you, or else encouraging you to think about this more if you haven't already. I view this as one of the most important parts of 1:1s. I want everyone to feel like they're growing by working here.
+For the first, I plan to ask all of you regularly what you want in your career so I can try to get that for you. If you don't know, I plan to encourage you to think about it more. I view this as one of the most important parts of 1:1s, and I want everyone to feel like they're growing by working here.
 
 The second and the third are closely related. The second refers to internal resources like information, meetings, and decisions, as well as external resources like software licenses and subscriptions, books and courses, conference tickets, connections with outside experts, etc. If the company, or anyone at the company, has access to any of these and they would help, I can go try and get them. The third refers specifically to time; engineers need to finish projects both to advance and to achieve a sense of purpose[^1]. I want to create time for us to finish projects without working long hours by keeping the list of projects short and consistent, and by cancelling projects that shouldn't be on it.
 
