@@ -12,7 +12,7 @@ When new things get added to the backlog, we insert them in the list and infer t
 
 ### How We Convert Them to Estimates
 
-In Agile, you compute a coefficient for the whole team. You track the number of Story Points the team accomplishes each week (their "Velocity," which should be fairly stable as a corollary of the above observation[^corollary]). For a new project, you add up its stories and divide by the team's Velocity to get a time estimate.
+We compute a coefficient for the whole team. First, we track the number of Story Points the team accomplishes each week (their "Velocity," which should be fairly stable as a corollary of the above observation[^corollary]). Then, for a new project, we add up its issues's Story Points and divide by the team's Velocity to get a time estimate.
 
 Isn't this just a complicated way of estimating projects the way we always have? You're breaking a project into pieces, estimating each piece, and then adding them up; isn't that known not to work well? The difference is that Story Points are relative, and Velocity is measured rather than estimated. This yields two big psychological benefits for engineers:
 1. If you forget to include testing, code review, etc. in your estimate, that's totally fine. As long as you forget consistently, and the forgotten steps are a fairly consistent proportion of each story, then stories' relative sizes remain the same. The time estimate comes out correct.
