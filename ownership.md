@@ -14,7 +14,7 @@ If you've been at Pachyderm for a while and want to lighten your load, don't be 
 
 ## Non-code Ownership
 
-There are many decisions made at Pachyderm about things other than code: What's on your product's roadmap? How will it be marketed? What's our release process? What are our team's priorities? Who do we hire? These, in a sense, constitute the broader creative project that is a software product, or even the creative project that is Pachyderm the company. Those decisions should have owners too. If you'd like to change one of them, find out who the owners are and work with them, as you would when sending a PR. Or, if you are the owner, change it!
+There are many decisions made at Pachyderm about things other than code: What do we put on the product's roadmap? How will we market it? What's our release process? What do we prioritize? Who do we hire? These, in a sense, constitute the broader creative project that is a software product, or even the creative project that is Pachyderm the company. Those decisions should have owners too. If you'd like to change one of them, find out who the owners are and work with them, as you would when sending a PR. Or, if you are the owner, change it!
 
 ## Ownership ownership
 
