@@ -4,7 +4,7 @@
 
 ## Code Ownership
 
-I believe code ownership is the most widely-practiced form of ownership in the tech industry. As an engineer, if you "own" a piece of the codebase, then you know how it works. You implement its feature requests, review its PRs, and answer questions about how it works. Ideally, two or more people own every part of the codebase (they trust each other—or at least negotiate with each other—to make decisions, and they communicate regularly about decisions made. They can review each others' code and cover for each other during vacations or other absences).
+I believe code ownership is the most widely-practiced form of ownership in the tech industry. When you "own" a piece of the codebase, then others expect you to know how it works and why it works that way[^1]. You implement its feature requests, review its PRs, and answer questions about how it works. Ideally, two or more people own every part of the codebase (they trust each other—or at least negotiate with each other—to make decisions, and they communicate regularly about decisions made. They can review each others' code and cover for each other during vacations or other absences).
 
 Code ownership is a special case of decision ownership. The need to make lots of open-ended decisions fundamentally defines creative work in general; in software specifically, the decisions look like: what are the variables called? How is the code laid out? What's the API? Etc. When you own a piece of the codebase, you own those decisions. By extension, if you need to make changes to another part of the Pachyderm codebase, one of the owners of that code needs to review it. They're responsible for the decisions in your PR, so try to accommodate their requests.
 
@@ -19,3 +19,5 @@ There are many decisions made at Pachyderm about things other than code: What's 
 ## Ownership ownership
 
 Finding owners for decisions is one of the main responsibilities of managers. Managers normally shouldn't make decisions over which they have delegated ownership, but it's reasonable for them to ask how a decision serves the company's goals, and if the company's goals aren't getting accomplished, it's reasonable to change the owner of those decisions in order to try a new approach.
+
+[^1]: If you're new to code ownership: it's okay if your code is bad for a bad reason, e.g. "we were in a hurry so we copied a bunch of code from another part of the codebase." Obviously that situation isn't ideal, but your job is just to know that fact! Realistically, we will write bad code sometimes for a variety of reasons, and because you know the reason, others won't be afraid to rewrite it when they have more time, knowledge, or motivation.
