@@ -2,7 +2,7 @@ Sources: [Write More Tests, Part 1](https://writemoretests.com/2012/02/how-to-es
 
 ### Observation
 
-An empirical claim: if Staff Engineer Alice takes a day to implement a feature that would have required a week from Junior Engineer Bob, then that 5x ratio generalizes to other projects. Bob will typically take 5x as long to implement a feature as Alice would[^claim].
+An empirical claim: if Staff Engineer Alice takes a day to implement a feature that would have required a week from Junior Engineer Bob, then that 5x ratio generalizes to other projects. Bob will typically take 5x as long to implement a feature as Alice would.
 
 ### Story Points
 
@@ -21,7 +21,5 @@ Isn't this just a complicated way of estimating projects the way we always have?
 ### What About Technical Risk? Early Feedback?
 
 These are both still very important. Big enough risks won't amortize over any reasonable time frame. The solution to these issues is to pick the right milestones, which is orthogonal to the ETA of those milestones. So we'll need to do that too.
-
-[^claim]: The evidence I've seen to support it is the endorsement of Avery, the "Write More Tests" person, and the prior experience of a few people at Pachyderm (who I'll name once I have their permission).
 
 [^corollary]: If the ratio of any two team members' completion time is stable, then confounding factors like "my laptop caught on fire this week" are washing out.
