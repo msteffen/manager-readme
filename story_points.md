@@ -1,3 +1,11 @@
+### Update (2022-03-19)
+
+We tried story points briefly, in early 2022  (late January or early February; I'd have to look up which sprint it was exactly). It didn't work well, in my opinion. Estimates took a lot of time during sprint planning, we gave most tickets 1 or 2 points (with the distinction between ones and twos seeming sort of arbitrary), and most engineers spent the estimation time watching passively (indicating, in my estimation, a poor use of time).
+
+Part of the problem may be our team's nature: being the integrations team, we have a wide diversity of projects supported by a small number of engineers: one frontend engineer and two backend engineers working on JupyterLab-Pachyderm, and a third backend engineer working on our LabelStudio integration. The only time multiple engineers could sensibly weight in on an estimate is for tickets shared by the JupyterLab-Pachyderm engineers. The rest of the time, my asking about story points felt performative.
+
+Instead, what has worked better is the (older, I think) process of deconstructing a project into a sequence of goals, attaching a target date to each goal, and adding a good bit of buffer to the end. I still lean heavily on "technical risk" to size this buffer, but I just ask "does this kind of work feel very familiar to you?" and "how hard will testing be—do you have test and release automation set up already?" An incidental benefit of the buffer is it's a good tool for managing scope: "yes this would be cool; what if implement the minimal thing now and replace it once we get to buffer items?"
+
 Sources: [Write More Tests, Part 1](https://writemoretests.com/2012/02/how-to-estimate-like-adult-part-1.html), [Part 2](https://writemoretests.com/2012/02/estimating-like-an-adult-what-to-steal-from-agile.html), [An Epic Treatise on Scheduling, Bug Tracking, and Triage](https://apenwarr.ca/log/20171213)
 
 ### Observation
