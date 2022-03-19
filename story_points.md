@@ -28,6 +28,8 @@ Isn't this just a complicated way of estimating projects the way we always have?
 
 These are both still very important. Big enough risks won't amortize over any reasonable time frame. The solution to these issues is to pick the right milestones, which is orthogonal to the ETA of those milestones. So we'll need to do that too.
 
-[^corollary]: If the ratio of any two team members' completion time is stable, then confounding factors like "my laptop caught on fire this week" are washing out.
+### Sources
+* [Write More Tests, Part 1](https://writemoretests.com/2012/02/how-to-estimate-like-adult-part-1.html), [Part 2](https://writemoretests.com/2012/02/estimating-like-an-adult-what-to-steal-from-agile.html)
+* [An Epic Treatise on Scheduling, Bug Tracking, and Triage](https://apenwarr.ca/log/20171213)
 
-Sources: [Write More Tests, Part 1](https://writemoretests.com/2012/02/how-to-estimate-like-adult-part-1.html), [Part 2](https://writemoretests.com/2012/02/estimating-like-an-adult-what-to-steal-from-agile.html), [An Epic Treatise on Scheduling, Bug Tracking, and Triage](https://apenwarr.ca/log/20171213)
+[^corollary]: If the ratio of any two team members' completion time is stable, then confounding factors like "my laptop caught on fire this week" are washing out.
