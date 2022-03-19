@@ -6,6 +6,8 @@ Part of the problem may be our team's nature: being the integrations team, we ha
 
 Instead, what has worked better is the (older, I think) process of deconstructing a project into a sequence of goals, attaching a target date to each goal, and adding a good bit of buffer to the end. I still lean heavily on "technical risk" to size this buffer, but I just ask "does this kind of work feel very familiar to you?" and "how hard will testing be—do you have test and release automation set up already?" An incidental benefit of the buffer is it's a good tool for managing scope: "yes this would be cool; what if implement the minimal thing now to get over the finish line and take the pressure off ourselves, and then replace that once we get to buffer items?"
 
+---
+
 ### Observation
 
 An empirical claim: if Staff Engineer Alice takes a day to implement a feature that would have required a week from Junior Engineer Bob, then that 5x ratio generalizes to other projects. Bob will typically take 5x as long to implement a feature as Alice would.
