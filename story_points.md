@@ -6,8 +6,6 @@ Part of the problem may be our team's nature: being the integrations team, we ha
 
 Instead, what has worked better is the (older, I think) process of deconstructing a project into a sequence of goals, attaching a target date to each goal, and adding a good bit of buffer to the end. I still lean heavily on "technical risk" to size this buffer, but I just ask "does this kind of work feel very familiar to you?" and "how hard will testing be—do you have test and release automation set up already?" An incidental benefit of the buffer is it's a good tool for managing scope: "yes this would be cool; what if implement the minimal thing now to get over the finish line and take the pressure off ourselves, and then replace that once we get to buffer items?"
 
-Sources: [Write More Tests, Part 1](https://writemoretests.com/2012/02/how-to-estimate-like-adult-part-1.html), [Part 2](https://writemoretests.com/2012/02/estimating-like-an-adult-what-to-steal-from-agile.html), [An Epic Treatise on Scheduling, Bug Tracking, and Triage](https://apenwarr.ca/log/20171213)
-
 ### Observation
 
 An empirical claim: if Staff Engineer Alice takes a day to implement a feature that would have required a week from Junior Engineer Bob, then that 5x ratio generalizes to other projects. Bob will typically take 5x as long to implement a feature as Alice would.
@@ -31,3 +29,5 @@ Isn't this just a complicated way of estimating projects the way we always have?
 These are both still very important. Big enough risks won't amortize over any reasonable time frame. The solution to these issues is to pick the right milestones, which is orthogonal to the ETA of those milestones. So we'll need to do that too.
 
 [^corollary]: If the ratio of any two team members' completion time is stable, then confounding factors like "my laptop caught on fire this week" are washing out.
+
+Sources: [Write More Tests, Part 1](https://writemoretests.com/2012/02/how-to-estimate-like-adult-part-1.html), [Part 2](https://writemoretests.com/2012/02/estimating-like-an-adult-what-to-steal-from-agile.html), [An Epic Treatise on Scheduling, Bug Tracking, and Triage](https://apenwarr.ca/log/20171213)
