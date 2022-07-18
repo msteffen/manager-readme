@@ -6,7 +6,7 @@ My view of our team's relationship with the company is that the company turns ou
 
 My philosophy on engineering managers, then, is that they're responsible for the second part of this machine, and specifically for getting a good plan for making successful software and defending that plan until it's done. Whole sections of bookstores are dedicated to what characterizes "a good plan", but I see two essential parts: 1) make sure the engineers on our team are getting what they need from the company, and 2) make sure the team is producing work for the company commensurately with its resources.
 
-### Helping the Team Get What it Needs from the Company
+### Getting What We Need from the Company
 
 I hope to do a lot for this team, but three main categories stand out:
 1. Help you use the company to grow your career
@@ -17,7 +17,7 @@ For the first, I plan to ask all of you regularly what you want in your career s
 
 The second and the third are closely related. The second refers to internal resources like information, meetings, and decisions, as well as external resources like software licenses and subscriptions, books and courses, conference tickets, connections with outside experts, etc. If the company, or anyone at the company, has access to any of these and they would help, I can go try and get them. The third refers specifically to time; engineers need to finish projects both to advance and to achieve a sense of purpose[^1]. I want to create time for us to finish projects without working long hours by keeping the list of projects short and consistent, and by cancelling projects that shouldn't be on it.
 
-### Keeping the Team Productive
+### Producing for the Company
 
 The rest of the company does depend on us to turn its money into work. The more of this we can do for the company, the more the company can do for us. To this end, my responsibilities fall into two main categories, in my view:
 1. Reducing risk:
