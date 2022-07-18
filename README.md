@@ -4,7 +4,7 @@ You may be familiar with the concept of a Manager README, but for those not: a m
 
 My view of our team's relationship with the company is that the company turns our work into money and resources, and we turn the company's money and resources into more work; an efficient machine. And "work" here means: make successful software. That's how we'll evaluate ourselves as a team.
 
-My philosophy on engineering managers, then, is that they're responsible for the second part of this machine, and specifically for getting a good plan for making successful software and defending that plan until it's done. Whole sections of bookstores are dedicated to what characterizes "a good plan", but I see two essential parts: 1) make sure the engineers on our team are getting what they need from the company, and 2) make sure the team is producing commensurately with its resources.
+My philosophy on engineering managers, then, is that they're responsible for the second part of this machine, and specifically for getting a good plan for making successful software and defending that plan until it's done. Whole sections of bookstores are dedicated to what characterizes "a good plan", but I see two essential parts: 1) make sure the engineers on our team are getting what they need from the company, and 2) make sure the team is producing work for the company commensurately with its resources.
 
 ### Helping the Team Get What it Needs from the Company
 
