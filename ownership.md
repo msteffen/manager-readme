@@ -1,6 +1,6 @@
 ## Definition
 
-**Ownership over a decision means that you can make or change the decision unilaterally, without consensus, but others will expect you to understand and explain it**
+**Ownership over a decision means that you can make or change the decision unilaterally, without consensus, but others will expect you to announce, understand, explain and defend it**
 
 ## Code Ownership
 
