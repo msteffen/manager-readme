@@ -1,7 +1,3 @@
-### Stash
-- And "work" here means: make successful software. That's how we'll evaluate ourselves as a team.
-- they're responsible for the second part of this machine, and specifically for getting a good plan for making successful software and defending that plan until it's done. two essential parts: 1) make sure the engineers on our team are getting what they need from the company, and 2) make sure the team is producing work for the company commensurately with its resources.
-
 ### Overview
 
 You may be familiar with the concept of a Manager README, but for those not: a manager's README explains the manager's philosophy, working style, and personal quirks to their team. I believe Roy Rapoport [started the practice](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.p) at Netflix in 2016, and since then it's become [quite common](https://hypercontext.com/blog/management-skills/49-manager-readmes). This document, _my_ manager README, endeavors to explain those things with respect to me[^0].
