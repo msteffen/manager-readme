@@ -18,7 +18,7 @@ The second and the third are closely related. The second refers to internal reso
 ### Getting the Company What it Needs from the Team
 
 The rest of the company does depend on us to turn its money into work. The more of this we can do for the company, the more the company can do for us. To this end, my responsibility is basically "given a goal, get a good plan for achieving the goal and defend the plan from distractions until the engineers have had time to finish it". Whole sections of bookstores are dedicated to what characterizes "a good plan", and determining one will often be part of our engineering purview, but just so you know what to expect, I'll be looking specifically to:
-1. Maintain good teamwork, and specifically, establish unambiguous, transparent [ownership](ownership.md)[^2] of each decision.
+1. Maintain good teamwork, and specifically, establish unambiguous, transparent ownership[^2] of each decision.
     - This is perhaps the most important single responsibility of a manager, and it's the one that I'm most excited about. Everybody on the team should know what the goal is, the plan for accomplishing it, everybody's position on the field, and how each position contributes.
 1. Reduce risk, get feedback:
     - We'll plan to finish projects way ahead of when they're needed. Some risks can't be anticipated: we possess bounded cognition and finite information. This way, when our plan breaks down for reasons we didn't see coming, we might still fulfill our promises to the company.
@@ -42,4 +42,4 @@ I put "good teamwork" in the Company bucket because we can't deliver if the team
 
 [^1]: I had a very formative experience with this early in my career. I inherited a deprecated but widely-used service, and its users' ad-hoc demands quickly consumed all of my time. I worked totally unsustainable hours trying to finish anything at all before the next emergency, and I mostly failed, and users were always mad about stuff not getting done. I thought I was just a bad engineer, but eventually I got a new TL who figured out what was happening and started pushing back on those users, and my job and confidence both got way better. Avery Pennarun wrote a [really great blog post about this specifically](https://apenwarr.ca/log/?m=201712), and there's a [somewhat fanciful but very compelling reddit story](https://old.reddit.com/r/antiwork/comments/rkk9qg/im_a_new_supervisor_and_my_direct_reports_are/hpacf5h/) to this end too.
 
-[^2]: Code ownership and, more generally, decision ownership is central to how I think about management—they decide who owns what.
+[^2]: Code ownership and, more generally, decision ownership is central to how I think about management. I've written [a doc](ownership.md) on it as well
