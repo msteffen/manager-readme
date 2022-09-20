@@ -4,7 +4,7 @@ You may be familiar with the concept of a Manager README, but for those not: a m
 
 My view of our team's relationship with the company is that the company turns our work into money (and resources), and we turn the company's money (and resources) into more work: an efficient machine. My philosophy on engineering managers is that they're the interface between the company and the team. The company goes through the manager to get the work it needs from the team, and you can use your manager to get what you need from the company.
 
-### Getting What We Need from the Company
+### Getting the Team What it Needs from the Company
 
 I hope to do a lot for this team, but three main categories stand out:
 1. Help you use the company to grow and sustain your career
@@ -15,7 +15,7 @@ For the first, I plan to ask all of you regularly what you want in your career s
 
 The second and the third are closely related. The second refers to internal resources like information, meetings, and cross-org decisions, as well as external resources like software licenses and subscriptions, books and courses, conference tickets, connections with outside experts, etc. If the company, or anyone at the company, has access to any of these and they would help, I can try and go get them. The third category refers specifically to time; engineers need to finish projects both to advance and to achieve a sense of purpose[^1]. I want to create time for us to finish projects without working long hours by keeping the list of projects short and consistent, and by cancelling projects that shouldn't be on it.
 
-### Producing for the Company
+### Getting the Company What it Needs From The Team
 
 The rest of the company does depend on us to turn its money into work. The more of this we can do for the company, the more the company can do for us. To this end, my responsibility is basically "given a goal, get a good plan for achieving the goal and defend the plan from distractions until the engineers have had time to finish it". Whole sections of bookstores are dedicated to what characterizes "a good plan", and determining one will often be part of our engineering purview, but just so you know what to expect, I'll be looking specifically to:
 1. Maintain good teamwork, and specifically, establish unambiguous, transparent [ownership](ownership.md) of each decision.
