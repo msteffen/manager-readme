@@ -2,7 +2,7 @@
 
 You may be familiar with the concept of a Manager README, but for those not: a manager's README explains the manager's philosophy, working style, and personal quirks to their team. I believe Roy Rapoport [started the practice](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.p) at Netflix in 2016, and since then it's become [quite common](https://hypercontext.com/blog/management-skills/49-manager-readmes). This document, _my_ manager README, endeavors to explain those things with respect to me[^0].
 
-My view of our team's relationship with the company is that the company turns our work into money (and resources), and we turn the company's money (and resources) into more work; an efficient machine. My philosophy on engineering managers is that they're the interface between the company and the team. The company goes through the manager to get the work it needs from the team, and you can use your manager to get what you need from the company.
+My view of our team's relationship with the company is that the company turns our work into money (and resources), and we turn the company's money (and resources) into more work: an efficient machine. My philosophy on engineering managers is that they're the interface between the company and the team. The company goes through the manager to get the work it needs from the team, and you can use your manager to get what you need from the company.
 
 ### Getting What We Need from the Company
 
