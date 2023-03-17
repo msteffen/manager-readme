@@ -1,6 +1,8 @@
 ## Definition
 
-**Ownership over a decision means that you can make or change the decision unilaterally, without consensus, but others will expect you to announce, understand, explain and defend it**
+**Ownership over a decision means that you can make or change the decision unilaterally, without consensus, but others will expect you to announce, understand, explain and defend it. You are responsible for gathering information to make the decision well, for explaining the decision to the people affected by it, and for its impact—on other teams and on the company's performance overall.**
+
+This short note is intended to be informational; it explains how Pachyderm works. It doesn't try to explain why this way of working is preferable to any (real or hypothetical) alternatives. I'm always happy to answer questions about it, but I want to keep it short and readable for anyone who has simply never encountered this way of working before.
 
 ## Code Ownership
 
@@ -14,10 +16,10 @@ If you've been at Pachyderm for a while and want to lighten your load, don't be 
 
 ## Non-Code Ownership
 
-There are many decisions made at Pachyderm about things other than code: What features should we add next? How will they be presented to users? What's our release process?  How will we market it? Who do we hire? These, in a sense, constitute the broader creative project that is a piece of software, or even the creative project that is Pachyderm the company. Those decisions should have owners too. If you'd like to change one of them, find out who the owners are and work with them, as you would when sending a PR. Or, if you are the owner, change it!
+There are many decisions made at Pachyderm about things other than code: What features should we add next? How will they be presented to users? What's our release process?  How will we market it? Who do we hire? These, in a sense, constitute the broader creative project that is a piece of software, or even the creative project that is building a software team. Those decisions should have owners too. If you'd like to change one of them, find out who the owners are and work with them, as you would when sending a PR. Or, if you are the owner, change it!
 
 ## Ownership Ownership
 
-Finding owners is one of the main decisions that managers make. Managers normally shouldn't make decisions over which they have delegated ownership, but it's reasonable for them to ask how a decision serves the company's goals, and if the company's goals aren't getting accomplished, it's reasonable to change the owner of those decisions in order to try a new approach.
+Finding owners is one of the main decisions that managers make. Managers normally shouldn't make decisions whose ownership they have delegated, but it's reasonable for them to ask how a decision serves the company's goals, and if the company's goals aren't getting accomplished, it's reasonable to change the owner of those decisions in order to try a new approach.
 
 [^1]: If you're new to code ownership: it's not-great-but-basically-fine if your code is bad for a bad reason, such as "we were in a hurry so we copied a bunch of code from another part of the codebase." Obviously such a situation isn't ideal, but it happens everywhere, and your most important job is to know about the problem! Realistically, we will write bad code from time to time for a variety of reasons, and because you know why the code is bad and how to fix it, others won't be afraid to rewrite it when they have more time, knowledge, or motivation.
